@@ -1,4 +1,4 @@
-NAME:=media-server
+NAME:=mini-media-server
 VERSION:=latest
 PORT:=8080
 TAG=${NAME}:${VERSION}
